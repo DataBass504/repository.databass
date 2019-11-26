@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.databass" name="[B][COLOR olive]DataBass's[/COLOR] Repository[/B]" version="1.0.1" provider-name="databass">
+<addon id="repository.databass" name="[B][COLOR olive]DataBass's[/COLOR] Repository[/B]" version="1.0" provider-name="databass">
     <extension point="xbmc.addon.repository" name="[B][COLOR olive]DataBass's[/COLOR] Repository[/B]">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/DataBass504/repository.databass/master/zips/addons.xml</info>
